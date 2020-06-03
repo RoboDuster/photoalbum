@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hello!👋<a href="https://twitter.com/hashtag/PitchYaGame?src=hash&amp;ref_src=twsrc%5Etfw">#PitchYaGame</a> <a href="https://twitter.com/hashtag/elev?src=hash&amp;ref_src=twsrc%5Etfw">#elev</a> <br>Exophobia is a modern, clean take on the classic retro first-person shooter gameplay, combining a frightening sci-fi setting, a stylized aesthetic, fast-paced intense combat and metroidvania exploration.<a href="https://t.co/Wwi6E2jLHo">https://t.co/Wwi6E2jLHo</a> (available to wishlist!) <a href="https://t.co/cc2nEqr8qw">pic.twitter.com/cc2nEqr8qw</a></p>&mdash; José &#39;Zarc&#39; Castanheira (@jcccastanheira) <a href="https://twitter.com/jcccastanheira/status/1265299622110670848?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 You can use the [editor on GitHub](https://github.com/RoboDuster/photoalbum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
