@@ -15,6 +15,7 @@ And that was the gist of the story. We had come up with a list of three factions
 Oh, there was also going to be a time limit. 
 
 ![The original Sub-Terran. Pay attention to that lower guy, he'll show up more!](/images/OriginalSubTerranLarge.png)
+
 <sub>The original Sub-Terran. Pay attention to that lower guy, he'll show up more!</sub>
 
 That was unfortunately the end of Sub-Terra in that form. We got a little room playable, you could shoot and attack a fly and the TV camera, even wall jump. But we never did get the time limit, the factions, or even the _game_ made. Slightly important that last one.
@@ -22,9 +23,11 @@ That was unfortunately the end of Sub-Terra in that form. We got a little room p
 So Sub-Terra was shelved for a while. I fully never stopped tinkering with the idea though. I tried making Sub-Terra as a turn based game, as a 2.5D platformer (I was quite proud of that one.), and we even considered making it an FPS. A very _DOOM_ inspired one, as we couldn't 3D model but that didn't bother us.
 
 ![Sub-Terra as a turn based game](/images/SubTerraTBS.png)
+
 <sub>Sub-Terra as a turn based game</sub>
 
 ![Sub-Terra DX, as it was known to us](/images/SubTerraDX.png)
+
 <sub>Sub-Terra DX, as it was known to us</sub>
 
 One thing all these iterations had in common: I made a room, sometimes made some enemies, and was generally bored with the work I had made within a month.
@@ -50,7 +53,8 @@ And I've kept plugging along at it since, which admittedly hasn't been long so f
 I implemented a basic enemy, reimagining a sprite from Sub-Terra DX's days:
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Many friend?<br><br>...Not friend! Not friend! <a href="https://t.co/hJFx6mn0ry">pic.twitter.com/hJFx6mn0ry</a></p>&mdash; Dustimancer (@RuinsOfDust) <a href="https://twitter.com/RuinsOfDust/status/1266437922896490496?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-### Astute viewers may recognize _DOOM_'s E1M1
+
+<sub>Astute viewers may recognize _DOOM_'s E1M1</sub>
 
 I also added some of the old tracks Logan had made back in our highschool days for the original Sub-Terra. I still think they hold up today, and I would even occasionally listen to them while I biked to work at Dairy Queen. Thinking about the music, I relayed my thoughts about the tracks to Logan, and later asked if he would be willing to make more. He agreed, and I lamented that I needed to sit down and actually plan out Sub-Terra at some point, as I've shown that my ideas are wide but very shallow. Logan suggested I watch Ben "Yahtzee" Croshaw's [gamedev diary](https://www.youtube.com/playlist?list=PLFERI12uu5pltdQ40tPXm9j1ENoAG3wgH) as he explained the idea of focusing on a series of core "loops".
 
